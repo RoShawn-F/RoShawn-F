@@ -17,7 +17,7 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 
 ## 📚 Currently Working On
 
-- 🐍 Python Programming Refresher — Coursera
+- 🐍 Python Programming — VetsinTech
 - 📊 IBM Data Science Professional Certificate — Coursera
 
 ---
