@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+    <img alt="banner" src="banner-light.png">
+</picture>
+
 # Hi, I'm RoShawn Frazier 👋
 
 **Data Analyst | Army Veteran | Defense & Enterprise IT Professional**
