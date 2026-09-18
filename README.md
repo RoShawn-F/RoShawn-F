@@ -28,6 +28,7 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 [![Python for Data Science and AI](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/a4a0db44-1bbd-4ec5-94a7-99030e53190a)
 [![Python Project for Data Science](https://img.shields.io/badge/IBM-Python%20Project-052FAD?logo=ibm)](https://www.credly.com/badges/aa7ef8c0-b2e4-4a85-90ba-c600ad269bdc)
 [![Data Science Orientation](https://img.shields.io/badge/IBM-Data%20Science%20Orientation-052FAD?logo=ibm)](https://www.credly.com/badges/bbfea7d8-38d6-4175-a606-ee94577005c2)
+[![Data Visualization with Python](https://img.shields.io/badge/IBM-Data%20Visualization%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/earner/earned/badge/64b34a6e-fe6d-45fd-938a-2d38be6463b1)
 
 🔄 Currently working on: Data Visualization with Python (Coursera)
 
