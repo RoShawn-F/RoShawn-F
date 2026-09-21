@@ -23,6 +23,8 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 
 ## 📚 Certifications
 
+[![Data Science Methodology](https://img.shields.io/badge/IBM-Data%20Science%20Methodology-052FAD?logo=ibm)](https://www.credly.com/go/UcJ6Wn4FMO7bX9Ihb7ssjw)
+[![Tools for Data Science V2](https://img.shields.io/badge/IBM-Tools%20for%20Data%20Science%20V2-052FAD?logo=ibm)](https://www.credly.com/go/UcJ6Wn4FMO7bX9Ihb7ssjw)
 [![Data Analysis with Python](https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/badges/8891c1b5-d08c-4e76-a6b5-c9e946dc2e2b)
 [![Databases and SQL for Data Science](https://img.shields.io/badge/IBM-SQL%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/8c072be0-59a5-4f27-a67e-b8e7718786d0)
 [![Python for Data Science and AI](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/a4a0db44-1bbd-4ec5-94a7-99030e53190a)
@@ -38,7 +40,7 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 
 - U.S. Army Veteran — HHC COSCOM
 - 10 years at L3Harris Technologies (defense contracting)
-- MS, Data Administration & Management — Keller Graduate School of Management
+- MS, Information Systems - Data Administration & Management — Keller Graduate School of Management
 - BS, Management of Technology — DeVry University
 - Python Programming — VetsinTech (completed)
 
