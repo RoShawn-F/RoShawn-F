@@ -25,7 +25,7 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 
 [![Data Science Orientation](https://img.shields.io/badge/IBM-Data%20Science%20Orientation-052FAD?logo=ibm)](https://www.credly.com/badges/bbfea7d8-38d6-4175-a606-ee94577005c2)
 [![Data Science Methodology](https://img.shields.io/badge/IBM-Data%20Science%20Methodology-052FAD?logo=ibm)](https://www.credly.com/go/UcJ6Wn4FMO7bX9Ihb7ssjw)
-[![Tools for Data Science](https://img.shields.io/badge/IBM-Tools%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/go/UcJ6Wn4FMO7bX9Ihb7ssjw)
+[![Tools for Data Science V2](https://img.shields.io/badge/IBM-Tools%20for%20Data%20Science%20V2-052FAD?logo=ibm)](https://www.credly.com/go/UcJ6Wn4FMO7bX9Ihb7ssjw)
 [![Databases and SQL for Data Science](https://img.shields.io/badge/IBM-SQL%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/8c072be0-59a5-4f27-a67e-b8e7718786d0)
 [![Data Analysis with Python](https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/badges/8891c1b5-d08c-4e76-a6b5-c9e946dc2e2b)
 [![Python Project for Data Science](https://img.shields.io/badge/IBM-Python%20Project-052FAD?logo=ibm)](https://www.credly.com/badges/aa7ef8c0-b2e4-4a85-90ba-c600ad269bdc)
