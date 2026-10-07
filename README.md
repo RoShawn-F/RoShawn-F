@@ -15,8 +15,11 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 ## 🛠️ Tools & Skills
 
 - **Languages:** Python, SQL
-- **Visualization:** Tableau, Excel (Pivot Tables, VLOOKUP)
-- **Platforms:** ServiceNow, JIRA, MS Project, Remedy
+- **Python Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn, openpyxl
+- **Machine Learning:** Classification (Random Forest, Logistic Regression), Pipelines, GridSearchCV, Model Evaluation
+- **Databases:** MySQL, MongoDB
+- **Visualization:** Power BI, Tableau, Excel (Pivot Tables, VLOOKUP)
+- **Platforms:** ServiceNow, JIRA, MS Project, Remedy, Azure, VMware
 - **Competencies:** Data Cleaning & Validation, Root Cause Analysis, Requirements Analysis, UAT/QA Testing, Trend Reporting
 
 ---
@@ -29,10 +32,10 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 [![Databases and SQL for Data Science](https://img.shields.io/badge/IBM-SQL%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/8c072be0-59a5-4f27-a67e-b8e7718786d0)
 [![Data Analysis with Python](https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/badges/8891c1b5-d08c-4e76-a6b5-c9e946dc2e2b)
 [![Python Project for Data Science](https://img.shields.io/badge/IBM-Python%20Project-052FAD?logo=ibm)](https://www.credly.com/badges/aa7ef8c0-b2e4-4a85-90ba-c600ad269bdc)
-[![Data Visualization with Python](https://img.shields.io/badge/IBM-Data%20Visualization%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/earner/earned/badge/64b34a6e-fe6d-45fd-938a-2d38be6463b1)
+[![Data Visualization with Python](https://img.shields.io/badge/IBM-Data%20Visualization%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/badges/64b34a6e-fe6d-45fd-938a-2d38be6463b1)
 [![Python for Data Science and AI](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/a4a0db44-1bbd-4ec5-94a7-99030e53190a)
 
-🔄 Currently working on: Machine Learning with Python (Coursera)
+🔄 Currently working on: Applied Data Science Capstone, the final course in the IBM Data Science Professional Certificate (Coursera)
 
 ---
 
