@@ -34,6 +34,7 @@ I'm a data analyst with a Master's in Data Administration & Management and 10+ y
 [![Python Project for Data Science](https://img.shields.io/badge/IBM-Python%20Project-052FAD?logo=ibm)](https://www.credly.com/badges/aa7ef8c0-b2e4-4a85-90ba-c600ad269bdc)
 [![Data Visualization with Python](https://img.shields.io/badge/IBM-Data%20Visualization%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/badges/64b34a6e-fe6d-45fd-938a-2d38be6463b1)
 [![Python for Data Science and AI](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/a4a0db44-1bbd-4ec5-94a7-99030e53190a)
+[![Machine Learning with Python](https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/badges/5b5a1e8e-161a-492c-9b99-7dd3d1405876)
 
 🔄 Currently working on: Applied Data Science Capstone, the final course in the IBM Data Science Professional Certificate (Coursera)
 
