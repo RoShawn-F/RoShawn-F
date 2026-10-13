@@ -51,7 +51,9 @@ A classification model predicting same-day rain from the previous day's weather,
 
 ### ✅ IBM Data Science Professional Certificate (Coursera), completed October 2026
 
-<a href="https://www.credly.com/badges/03035e08-e507-48c4-98f3-dd5e90467905"><img src="https://images.credly.com/images/42ce4209-8839-431a-9046-f2ce2e72e04b/linkedin_thumb_Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Data Science Professional Certificate badge" width="140"></a>
+<a href="https://www.credly.com/badges/03035e08-e507-48c4-98f3-dd5e90467905"><img src="ibm-ds-certificate.png" alt="IBM Data Science Professional Certificate badge" width="150"></a>
+
+🔗 [Verify this credential on Credly](https://www.credly.com/badges/03035e08-e507-48c4-98f3-dd5e90467905)
 
 12 courses, from Python, SQL, and data visualization through machine learning, the Applied Data Science Capstone, Generative AI: Elevate Your Data Science Career, and Data Scientist Career Guide and Interview Preparation.
 
