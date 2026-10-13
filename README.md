@@ -51,9 +51,7 @@ A classification model predicting same-day rain from the previous day's weather,
 
 ### ✅ IBM Data Science Professional Certificate (Coursera), completed October 2026
 
-<a href="https://www.credly.com/badges/03035e08-e507-48c4-98f3-dd5e90467905"><img src="ibm-ds-certificate.png" alt="IBM Data Science Professional Certificate badge" width="150"></a>
-
-🔗 [Verify this credential on Credly](https://www.credly.com/badges/03035e08-e507-48c4-98f3-dd5e90467905)
+<a href="https://www.credly.com/badges/03035e08-e507-48c4-98f3-dd5e90467905"><img src="https://images.credly.com/images/42ce4209-8839-431a-9046-f2ce2e72e04b/linkedin_thumb_Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Data Science Professional Certificate badge" width="140"></a>
 
 12 courses, from Python, SQL, and data visualization through machine learning, the Applied Data Science Capstone, Generative AI: Elevate Your Data Science Career, and Data Scientist Career Guide and Interview Preparation.
 
@@ -68,7 +66,6 @@ A classification model predicting same-day rain from the previous day's weather,
 [![Machine Learning with Python](https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-052FAD?logo=ibm)](https://www.credly.com/badges/5b5a1e8e-161a-492c-9b99-7dd3d1405876)
 [![Generative AI Essentials for Data Science](https://img.shields.io/badge/IBM-Generative%20AI%20for%20Data%20Science-052FAD?logo=ibm)](https://www.credly.com/badges/3fbddf26-0e23-4d2c-9e81-a9d6ca6de9df)
 [![Data Scientist Career Guide and Interview Preparation](https://img.shields.io/badge/IBM-Career%20Guide%20%26%20Interview%20Prep-052FAD?logo=ibm)](https://www.credly.com/badges/ece1b214-afca-475c-9c1e-d80060a7b063)
-[![Applied Data Science Capstone](https://img.shields.io/badge/IBM-Applied%20Data%20Science%20Capstone-052FAD?logo=ibm)](https://github.com/RoShawn-F/spacex-falcon9-landing-prediction)
 
 **Also:** Python Programming (VetsinTech) · Six Sigma Lean White Belt
 
