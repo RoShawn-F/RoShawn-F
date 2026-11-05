@@ -4,11 +4,11 @@
   <img alt="banner" src="banner-light.png">
 </picture>
 
-# Hi, I'm RoShawn Frazier 👋
+# Hello, I'm RoShawn Frazier 👋
 
-**Data Analyst | Machine Learning | Army Veteran | 10+ Years Enterprise IT (L3Harris)**
+**Data Analyst | Machine Learning | Army Veteran | 10 Years Enterprise IT (L3Harris)**
 
-I'm a data analyst with a Master's in Information Systems (Data Administration & Management) and over a decade of enterprise IT experience in the defense sector. I turn messy data into clear answers: collecting it, cleaning it, querying it, visualizing it, and building models that predict what happens next. I bring analytical rigor, technical depth, and the discipline that comes from military service to every project.
+I'm a data analyst with a Master's in Information Systems (Data Administration & Management) and 10 years of enterprise IT experience in the defense sector. I turn messy data into clear answers: collecting it, cleaning it, querying it, visualizing it, and building models that predict what happens next. I bring analytical rigor, technical depth, and the discipline that comes from military service to every project.
 
 ---
 
@@ -62,7 +62,7 @@ A classification model predicting same-day rain from the previous day's weather,
 - **Python Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Requests, BeautifulSoup, openpyxl
 - **Machine Learning:** Classification (Logistic Regression, SVM, Decision Tree, KNN, Random Forest), Pipelines, GridSearchCV, Model Evaluation
 - **Visualization & Dashboards:** Plotly Dash, Folium, Power BI, Tableau, Excel (Pivot Tables, VLOOKUP)
-- **Databases:** SQLite, MySQL, MongoDB
+- **Databases & SQL:** SQLite, MySQL, MongoDB · joins, CTEs, window functions
 - **Platforms:** Jupyter, GitHub, ServiceNow, JIRA, MS Project, Remedy, Azure, VMware
 - **Competencies:** Data Cleaning & Validation, Exploratory Data Analysis, Root Cause Analysis, Requirements Analysis, UAT/QA Testing, Trend Reporting
 
@@ -97,8 +97,8 @@ A classification model predicting same-day rain from the previous day's weather,
 ## 🎖️ Background
 
 - U.S. Army Veteran (HHC COSCOM)
-- ~10 years at L3Harris Technologies (defense contracting): IT deployment and project coordination across a secure multi-building campus
-- MS, Information Systems (Data Administration & Management), Keller Graduate School of Management, **Summa Cum Laude, 3.9 GPA**
+- 10 years at L3Harris Technologies (defense contracting): IT deployment and project coordination across a secure multi-building campus
+- MS, Information Systems (Data Administration & Management), Keller Graduate School of Management, **Magna Cum Laude, 3.9 GPA**
 - BS, Management of Technology, DeVry University
 
 ---
