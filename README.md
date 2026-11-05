@@ -14,6 +14,27 @@ I'm a data analyst with a Master's in Information Systems (Data Administration &
 
 ## 🚀 Featured Projects
 
+
+### [Arizona Hospitals: Cost vs. Quality](https://github.com/RoShawn-F/arizona-hospital-cost-quality)
+*Healthcare analytics · Medicare inpatient data, 2024*
+
+An analysis of what Arizona's most common hospital stays cost, how prices vary between hospitals, and whether higher payments buy higher quality.
+
+- Joined two CMS datasets on hospital CCN (99.8% match) and filtered 146,000 national records to Arizona
+- Wrote 7 **SQL** queries with CTEs and window functions; built a case-mix-adjusted **payment index** to compare hospitals fairly
+- Found sepsis drives Arizona's Medicare stays, and payments for the same sepsis stay varied 2.6x across hospitals while charges varied 16.5x
+- Showed higher payments don't come with higher CMS star ratings (correlation 0.06)
+
+### [Product Catalog Data Quality Audit](https://github.com/RoShawn-F/product-catalog-data-quality)
+*E-commerce data cleaning · 1M+ transaction records*
+
+A documented cleanup of two years of online retail data into a reliable product catalog.
+
+- Cleaned 1M+ records in **pandas**, logging every step: duplicates, cancellations, fee lines and invalid records
+- Found **12.6% of products** sold under conflicting names, carrying about 26% of revenue
+- Built a product master with one official name per product, plus a review list of conflicts
+- Answered catalog and sales questions in **SQL**, flagging pricing errors and seasonal sales peaks
+
 ### [SpaceX Falcon 9 Landing Prediction](https://github.com/RoShawn-F/spacex-falcon9-landing-prediction)
 *IBM Data Science Professional Certificate capstone · It's not a phase, it's a pipeline.*
 
